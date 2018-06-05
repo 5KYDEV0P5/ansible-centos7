@@ -1,5 +1,6 @@
 # CentOS 7.x Ansible Test Image
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Docker Automated build](https://img.shields.io/docker/automated/skydevops/skydevops-centos7-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/skydevops/skydevops-centos7-ansible/)
 
 CentOS 7.x Docker container for testing Ansible playbook and role.
